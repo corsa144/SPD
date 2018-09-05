@@ -1,0 +1,13 @@
+-47 en signo magnitud es 00101111(numero binario)=10101111
+-47 en complemento a 1 es 11010000
+-47 en complemento a 2 es 11010001
+
+-110 en signo magnitud es (01101110 numero binerio)=11101110
+-110 en complemento a 1 es 10010001
+-110 en complemento a 2 es 10010010
+
+-68 en signo magnitud es (01000100 numero binario)=11000100
+-68 en complemento a 1 es 10111011
+-68 en complemento a 2 es 10111100
+
+signo magnitud 10000111
