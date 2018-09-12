@@ -10,4 +10,14 @@
 -68 en complemento a 1 es 10111011
 -68 en complemento a 2 es 10111100
 
-signo magnitud 10000111
+signo magnitud 10000111 a decimal es -7
+en complemento a 1 es 11111000
+en complemento a 2 es 11111001
+
+ca1 10011100 a decimal es -99
+en complemnto a 2 es 10011101
+en signo magnitud es 11100011
+
+ca2 10011100 a decimal es -98
+en complemento a 1 es 10011011
+en signo magnitud es 11100100
