@@ -1,0 +1,3 @@
+el signo  es 1
+el exponente es 10001001
+la mantisa es 10111111100000000000000
